@@ -50,8 +50,6 @@ python app.py
 ## Project Folder Structure
 
 ```bash
-
----
 Root/
 ├── __init__.py
 ├── app.py
@@ -70,5 +68,4 @@ Root/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
----
 ```
