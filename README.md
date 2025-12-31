@@ -46,7 +46,7 @@ cd sms-spam-detection
 pip install -r requirements.txt
 python app.py
 
-```
+---
 Root/
 ├── __init__.py
 ├── app.py
@@ -65,4 +65,4 @@ Root/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
-```
+---
